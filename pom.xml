@@ -173,7 +173,6 @@
                 	  resources/**
                 	</excludes>
                 	<outputDirectory>/var/jenkins_home/hosttest</outputDirectory>
-                	<outputDirectory>C:\Users\user\Downloads\Compressed\testimage</outputDirectory>
                 </configuration>
             	
             </plugin>
