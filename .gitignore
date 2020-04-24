@@ -1,3 +1,6 @@
+target/
+resources/
 .classpath
 .project
-/target
+.springBeans
+.settings
